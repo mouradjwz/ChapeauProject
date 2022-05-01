@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\Model\\obj\\",
+      "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",

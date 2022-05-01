@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",

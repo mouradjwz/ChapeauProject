@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\UI\\UI.csproj",
+      "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moura\\Documents\\School\\Term 4\\Project\\ChapeauProject\\UI\\obj\\",
+      "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
