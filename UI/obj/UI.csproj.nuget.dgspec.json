@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj": {}
+    "C:\\Users\\JBhowmick\\Documents\\SCHOOL\\Proj 2 Restaurant\\proj\\ChapeauProject\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj": {
+    "C:\\Users\\JBhowmick\\Documents\\SCHOOL\\Proj 2 Restaurant\\proj\\ChapeauProject\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\JBhowmick\\Documents\\SCHOOL\\Proj 2 Restaurant\\proj\\ChapeauProject\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
-        "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
+        "projectPath": "C:\\Users\\JBhowmick\\Documents\\SCHOOL\\Proj 2 Restaurant\\proj\\ChapeauProject\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\JBhowmick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JBhowmick\\Documents\\SCHOOL\\Proj 2 Restaurant\\proj\\ChapeauProject\\UI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\JBhowmick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
