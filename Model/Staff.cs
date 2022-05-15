@@ -13,9 +13,9 @@ namespace Model
 
         //variables or properties?
         
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string StaffID { get; set; }
+        //public string FirstName { get; set; }
+        //public string LastName { get; set; }
+        //public string StaffID { get; set; }
 
         public Staff(string firstName, string lastName, int staffId, int passCode)
         {
