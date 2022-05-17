@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BPwNhEHpU4s1U3QstTeEhs0HFYC0+UNpI4AvvDy8fCu7GB8wcKufl0S6edGpIhIfN6CctXeqHHO2p8q0Cy5GvA==",
+  "dgSpecHash": "mPXyDGFfT0mNwZ6ruW7fq7LqZ13vNv5u2L9o161fAhvhpy46Y9BWBLUWCOX4qoQPybCDaEdWlozuyUkX8wOWQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JBhowmick\\Documents\\SCHOOL\\Proj 2 Restaurant\\proj\\ChapeauProject\\Model\\Model.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Roby\\Source\\Repos\\ChapeauProject\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roby\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
