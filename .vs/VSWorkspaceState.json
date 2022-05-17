@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Model"
+    "\\DAO",
+    "\\Model",
+    "\\Service"
   ],
+  "SelectedNode": "\\ChapeauProject.sln",
   "PreviewInSolutionExplorer": false
 }
