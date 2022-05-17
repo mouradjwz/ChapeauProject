@@ -1,7 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Model;
 
-
-public class SalesDao : BaseDao
+namespace DAL
 {
-	
+    public class SalesDao : BaseDao
+    {
+    }
 }
