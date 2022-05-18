@@ -757,19 +757,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moura\\.nuget\\packages\\": {}
+    "C:\\Users\\Mitko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Mitko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mitko\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -783,8 +783,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
+            "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Model\\Model.csproj"
             }
           }
         }
@@ -823,7 +823,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
