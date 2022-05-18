@@ -12,7 +12,7 @@ namespace DAL
 
         public BaseDao()
         {
-            conn = new SqlConnection(ConfigurationManager.ConnectionStrings["SomerenDatabase"].ConnectionString);
+            conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ChapeauDataBase"].ConnectionString);
             adapter = new SqlDataAdapter();
         }
 
