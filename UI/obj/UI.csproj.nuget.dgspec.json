@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj": {}
+    "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj": {
+    "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Roby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
+              "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
               }
             }
           }
@@ -63,26 +63,32 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
+    "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\obj\\",
+        "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Roby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,26 +123,32 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
+    "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\obj\\",
+        "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Roby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,11 +162,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj"
+              "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
+              "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
               }
             }
           }
@@ -178,26 +190,32 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj": {
+    "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
-        "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
+        "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\Roby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -211,11 +229,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
+              "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
               },
-              "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj"
+              "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj"
               }
             }
           }
@@ -239,6 +257,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -247,7 +271,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

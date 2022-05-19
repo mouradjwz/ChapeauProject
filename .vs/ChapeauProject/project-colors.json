@@ -15,7 +15,17 @@
       "ProjectGuid": "8dba41cf-f447-4ae0-a053-df8e00e70dff",
       "DisplayName": "Service",
       "ColorIndex": 1
+    },
+    "223df72a-b574-4b52-9ad6-e0f5c3e814e0": {
+      "ProjectGuid": "223df72a-b574-4b52-9ad6-e0f5c3e814e0",
+      "DisplayName": "UI",
+      "ColorIndex": 2
+    },
+    "fd9ca553-6de0-4ddd-8d98-ac7698853cf9": {
+      "ProjectGuid": "fd9ca553-6de0-4ddd-8d98-ac7698853cf9",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

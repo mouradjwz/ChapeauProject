@@ -821,11 +821,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
+            "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
             },
-            "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj"
+            "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj"
             }
           }
         }
