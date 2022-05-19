@@ -15,9 +15,9 @@ namespace Service
             staffDao = new StaffDao();
         }
 
-        public Staff LoginStaff(string firstName, int PassCode)
+        public Staff LoginStaff(int staffID, int PassCode)
         {
-            Staff staff = staffDao.LoginStaff(firstName, PassCode);
+            Staff staff = staffDao.LoginStaff(staffID, PassCode);
 
             return staff;
         }

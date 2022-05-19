@@ -20,7 +20,7 @@ namespace UI
         private void btnLogin_Click(object sender, EventArgs e)
         {
             StaffService staffService = new StaffService();
-            Staff staff = staffService.LoginStaff(txtUsername.Text, int.Parse(txtPassword.Text));
+            Staff staff = staffService.LoginStaff(int.Parse(txtStaffID.Text), int.Parse(txtPassword.Text));
 
             if (staff != null)
             {
@@ -28,7 +28,7 @@ namespace UI
             }
             else
             {
-                MessageBox.Show("Incorrect username or password!!!");
+                MessageBox.Show("Incorrect username or password!");
 
             }
 

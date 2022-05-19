@@ -32,7 +32,7 @@
             this.btnLogin = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.txtPassword = new System.Windows.Forms.TextBox();
-            this.txtUsername = new System.Windows.Forms.TextBox();
+            this.txtStaffID = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -43,9 +43,9 @@
             this.label1.Location = new System.Drawing.Point(77, 122);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 20);
+            this.label1.Size = new System.Drawing.Size(55, 20);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Username";
+            this.label1.Text = "StaffID";
             // 
             // btnLogin
             // 
@@ -76,13 +76,13 @@
             this.txtPassword.Size = new System.Drawing.Size(269, 27);
             this.txtPassword.TabIndex = 7;
             // 
-            // txtUsername
+            // txtStaffID
             // 
-            this.txtUsername.Location = new System.Drawing.Point(77, 156);
-            this.txtUsername.Margin = new System.Windows.Forms.Padding(2);
-            this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(269, 27);
-            this.txtUsername.TabIndex = 6;
+            this.txtStaffID.Location = new System.Drawing.Point(77, 156);
+            this.txtStaffID.Margin = new System.Windows.Forms.Padding(2);
+            this.txtStaffID.Name = "txtStaffID";
+            this.txtStaffID.Size = new System.Drawing.Size(269, 27);
+            this.txtStaffID.TabIndex = 6;
             // 
             // pictureBox1
             // 
@@ -102,7 +102,7 @@
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtPassword);
-            this.Controls.Add(this.txtUsername);
+            this.Controls.Add(this.txtStaffID);
             this.Controls.Add(this.label1);
             this.Name = "LoginUI";
             this.Text = "LoginUI";
@@ -118,7 +118,7 @@
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtPassword;
-        private System.Windows.Forms.TextBox txtUsername;
+        private System.Windows.Forms.TextBox txtStaffID;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

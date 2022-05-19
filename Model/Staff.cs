@@ -12,6 +12,11 @@ namespace Model
         public int PassCode { get; set; }
         public int HasPermission { get; set; }
 
+        public Staff()
+        {
+
+        }
+
         public Staff(string firstName, string lastName, int staffId, int passCode, int hasPermission)
         {
             FirstName = firstName;
