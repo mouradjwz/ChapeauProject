@@ -795,19 +795,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moura\\.nuget\\packages\\": {}
+    "C:\\Users\\Roby\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
-      "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moura\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
+      "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
+      "packagesPath": "C:\\Users\\Roby\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roby\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -849,6 +849,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -857,7 +863,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
