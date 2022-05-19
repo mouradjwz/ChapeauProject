@@ -795,19 +795,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Roby\\.nuget\\packages\\": {}
+    "C:\\Users\\Mitko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\UI.csproj",
-      "packagesPath": "C:\\Users\\Roby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\UI\\obj\\",
+      "projectPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\UI\\UI.csproj",
+      "packagesPath": "C:\\Users\\Mitko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Roby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mitko\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -821,11 +821,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj"
+            "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Model\\Model.csproj"
             },
-            "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Service\\Service.csproj"
+            "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Service\\Service.csproj"
             }
           }
         }
@@ -849,12 +849,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.22, 3.1.22]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -863,8 +857,16 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Mitko\\Desktop\\ChapeauProject\\UI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
