@@ -27,10 +27,10 @@ namespace DAL
                     bill.BillId = (int)dr["ID"],
                     bill.AmountDue = (int)dr["Price"],
                 };
-
+               
             }
             return bill;
         }
 
-
-    }
+       
+}
