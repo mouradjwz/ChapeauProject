@@ -8,5 +8,13 @@ namespace Model
     {
         public int Id { get; set; }
         public int NumberOfPeople { get; set; }
+        public int TableStatus { get; set; }
+
+        public Table(int tableId, int numberOfPeople, int tableStatus)
+        {
+            Id = tableId;
+            NumberOfPeople = numberOfPeople;
+            TableStatus = tableStatus;
+        }
     }
 }

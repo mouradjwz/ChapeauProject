@@ -24,13 +24,20 @@ namespace DAL
             foreach (DataRow dr in dataTable.Rows)
             {
                 {
-                    bill.BillId = (int)dr["ID"],
-                    bill.AmountDue = (int)dr["Price"],
+                    //tip and total set to 0 for now, will add tip once the user enters it
+                    // then add up tip and amount due to make total due.
+                    bill.BillId = (int)dr["ID"];
+                    bill.AmountDue = (int)dr["Price"];
+                    bill.Tip = 0;
+                    bill.TotalDue = 0;
+                    bill.Feedback = "n/a";
                 };
-               
+
             }
             return bill;
         }
 
-       
+
+    }
 }
+
