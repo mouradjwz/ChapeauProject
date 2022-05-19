@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GJxFT2zULXZHhXvoKnJZSla1wRrq223b9yXXY6Qs3cnynpJnQKZ4wtpZQWma9/4Oq7A9OPip0ifv0Vr40SwW4w==",
+  "dgSpecHash": "OTweXc0wEr3ooSCT9lKAQjy6imhUzqGHg8g271m8TkNVjgb7SopgHPtgtGjEZdjezbcy+7iyb3dZeFh6C3vc7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mitko\\Desktop\\ChapeauProject\\Model\\Model.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Roby\\Documents\\GitHub\\ChapeauProject\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roby\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
