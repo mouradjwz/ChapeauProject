@@ -26,3 +26,10 @@ C:\Users\JBhowmick\Documents\SCHOOL\Proj 2 Restaurant\proj\ChapeauProject\Model\
 C:\Users\JBhowmick\Documents\SCHOOL\Proj 2 Restaurant\proj\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.dll
 C:\Users\JBhowmick\Documents\SCHOOL\Proj 2 Restaurant\proj\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.pdb
 C:\Users\JBhowmick\Documents\SCHOOL\Proj 2 Restaurant\proj\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.csproj.AssemblyReference.cache
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\moura\Documents\GitHub\ChapeauProject\Model\obj\Debug\netcoreapp3.1\Model.pdb
