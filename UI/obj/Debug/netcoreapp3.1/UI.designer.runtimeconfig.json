@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\Roby\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Roby\\.nuget\\packages"
+      "C:\\Users\\moura\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\moura\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
